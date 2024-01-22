@@ -14,7 +14,7 @@
 - **The dataset named "Online Retail II" contains online sales transactions of a UK-based retail company between 01/12/2009 and 09/12/2011. The company's product catalog includes gift items, and it is known that most of its customers are wholesalers.**
 
   - (*Online Retail II isimli veri seti İngiltere merkezli bir perakende şirketinin  01/12/2009 - 09/12/2011 tarihleri arasındaki online satış işlemlerini içeriyor. Şirketin ürün kataloğunda hediyelik eşyalar yer almaktadır ve çoğu müşterisinin toptancı olduğu bilgisi mevcuttur.*)
-
+---
 - **InvoiceNO** : *If this code starts with C, it means that the transaction has been cancelled* (Eğer bu kod C ile başlıyorsa işlemin iptal edildiğini ifade eder)
 
 - **StockCode** : *Unique code for each product* (Her bir ürün için eşşiz kod)
